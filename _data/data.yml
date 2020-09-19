@@ -5,6 +5,7 @@
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
+    interests: True 
 
     # Profile information
     name: Tadhg Cashman
@@ -45,16 +46,16 @@ interests:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a senior IT professional with 20 years’ experience in the sector, with strong leadership, commercial, strategic, sales, project management, and technical skills. I have a successful track record in developing and managing professional, managed and support services practices, from leading teams to commercially negotiating consulting and support engagements, to delivering a whole range of enterprise-grade projects including infrastructure implementation projects, ICT strategy development projects, software & ERP implementation & development projects, and formal testing projects. I have a strong understanding of the strategic planning & financial aspects of projects and service delivery, having managed a number of P&Ls over the years, and I believe I have strong business acumen. I believe I have consistently demonstrated good judgement in the team members I recruited into my teams and have successfully retained key staff. 
+      
+      Services businesses are very much people-oriented businesses and the leader needs to have excellent communication and people management skills, as well as eliciting strong levels of respect from his or her team members from junior levels to senior levels – I believe I have the requisite leadership skills to consistently achieve results in a services context. I have developed a balance between the hard technical expertise required by the IT sector, and the softer skills of communication, project management, people management & strategic understanding, all of which are vital to the successful delivery of any service or project. I have strong numerical analytical skills and can slice and dice data sets to gain valuable business insights into revenue, cost and profitability of services-based businesses. I also have extensive experience of using a variety of industry standard structured project management, service delivery management and software development methodologies. 
+      
+      I have a solid academic background with a Masters Degree in Computer Science, a First Class Honours degree in Business from Trinity College Dublin, a Post-Graduate Diploma in Project Management as well as a range of other qualifications. In 2013 I completed 2 years of study and 7 exams (all passed first time) to become a fully certified ITIL Expert in IT Service Management. 
+
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: Trinity College Dublin
+      time: 1996
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -63,9 +64,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Bachelor of Business Studies (First Class Honours)
+      university: Trinity College Dublin
+      time: 1992
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -75,21 +76,11 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Services Director
+      time: 2006 - Present
+      company: Logicalis Ireland
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        I currently run the Infrastructure Services Division for Logicalis in Ireland with responsibility for managing all aspects of the development of this practice, which has a team of 25 - 2014 results: revenue circa €3.5m, net profit circa €650k. My Division is divided into 3 functions: Professional Services, Support & Maintenance Services, and Managed Services. While I was originally hired to just develop the professional services practice, I was instrumental in growing the infrastructure support and maintenance services business in Logicalis and I was asked to take over leadership of the support structure within the business and combine it into a single Infrastructure Services practice. Strategically, 2015 is about investing in developing our infrastructure managed service capability. Overall, the role involves recruiting and leading a team of consultants and support specialists to deliver best practice technology consulting and support services to the company's clients, leading and motivating the sales team to deliver the new projects & contracts to the consulting and support teams, ensuring we are exceeding our clients' expectations on all projects and services we deliver for them, carrying out strategic consulting assignments for our key clients, managing the support team to deliver on our SLA commitments, and generally managing all strategic and commercial aspects of the development of the Services practice in Logicalis. I am paid on the achievement of revenue and profitability targets, as well as a small number of other KPIs.
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
@@ -171,17 +162,8 @@ skills:
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Angular
-        level: 98%
-
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
